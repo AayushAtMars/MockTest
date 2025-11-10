@@ -4,7 +4,7 @@ import React from "react";
 const Stats = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Stats</Text>
+      <Text style={styles.text}>Playlist</Text>
     </View>
   );
 };
